@@ -1,4 +1,4 @@
-## Hi 👋 I am Mahir 
+## Hi, I am Mahir :)
 
 I am a second year Computer Engineering student at [Purdue University](https://www.purdue.edu/)
 - 👀 I’m interested in machine learning and software engineering, with experience in app development, web design and microcontrollers.
