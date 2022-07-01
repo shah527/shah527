@@ -1,4 +1,5 @@
-## Hi, I am Mahir :)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I+am+Mahir+:\))](https://git.io/typing-svg)
+
 
 I am a second year Computer Engineering student at [Purdue University](https://www.purdue.edu/)
 - 👀 I’m interested in machine learning and software engineering, with experience in app development, web design and microcontrollers.
