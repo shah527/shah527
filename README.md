@@ -6,7 +6,7 @@ I am a second year Computer Engineering student at [Purdue University](https://w
 - 🌐 Reach me at: <a href="https://www.linkedin.com/in/shahmdmahir03/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="75px" /></a>&nbsp;
 
 
-<b>Languages and Tools:</b>
+<b>Stuff I am familiar with:</b>
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
