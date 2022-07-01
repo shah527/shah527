@@ -23,7 +23,7 @@ I am a second year Computer Engineering student at [Purdue University](https://w
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shah527&show_icons=true&theme=codeSTACKr" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=shah527&theme=codeSTACKr&hide_border=true&bg_color=black" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=shah527&theme=darcula&hide_border=true" width = 400>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shah527&layout=compact&hide_border=true&theme=codeSTACKr&langs_count=6" width = 400>
 </p>
 
