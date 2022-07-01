@@ -1,3 +1,5 @@
+<center>
+
 ## Hi, I am Mahir :)
 
 I am a second year Computer Engineering student at [Purdue University](https://www.purdue.edu/)
@@ -27,3 +29,4 @@ I am a second year Computer Engineering student at [Purdue University](https://w
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shah527&layout=compact&hide_border=true&hide=html,css&theme=nightowl&langs_count=6" width = 400>
 </p>
 
+</center>
