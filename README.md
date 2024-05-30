@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+:\))
 
 
-<table style="width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
     <tr>
-        <td style="width: 50%; vertical-align: top; border-collapse: collapse;">
+        <td style="width: 50%; vertical-align: top;">
         <b>Stuff I am familiar with:</b>
         <br>
         <br>
