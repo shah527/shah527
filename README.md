@@ -3,7 +3,7 @@
 
 <table style="width: 100%; border-collapse: collapse;">
     <tr>
-        <td style="width: 50%; vertical-align: top;">
+        <td style="width: 50%; vertical-align: top; padding: 0;">
         <b>Stuff I am familiar with:</b>
         <br>
         <br>
@@ -35,7 +35,7 @@
         <br>
         <br>
        </td>
-        <td style="width: 50%; vertical-align: top;">
+        <td style="width: 50%; vertical-align: top; padding: 0;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shah527&layout=compact" alt="Top Languages" style="max-width: 100%;">
         </td>
     </tr>
