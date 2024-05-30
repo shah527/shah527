@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+:\))
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+:\))
 
 
 <b>Stuff I am familiar with:</b>
