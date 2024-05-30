@@ -3,7 +3,7 @@
 
 <table style="width: 100%;">
     <tr>
-        <td style="width: 50%; vertical-align: top;">
+        <td style="width: 50%; vertical-align: top; border-collapse: collapse;">
         <b>Stuff I am familiar with:</b>
         <br>
         <br>
