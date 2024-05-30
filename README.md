@@ -3,6 +3,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 48%;">
+        <div style="height: 100%;">
         <b>Stuff I am familiar with:</b>
         <br>
         <br>
@@ -33,9 +34,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
         <br>
         <br>
+        </div>
     </div>
     <div style="width: 48%;">
+        <div style="height: 100%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shah527&layout=compact" alt="Top Languages" style="max-width: 100%;">
+        </div>
     </div>
 </div>
 
