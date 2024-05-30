@@ -35,7 +35,7 @@
         <br>
     </div>
     <div style="width: 48%;">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shah527)](https://github.com/shah527/github-readme-stats)
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shah527&layout=compact" alt="Top Languages" style="max-width: 100%;">
     </div>
 </div>
 
